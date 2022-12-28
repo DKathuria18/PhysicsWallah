@@ -1,0 +1,34 @@
+/* CSS */
+/* *{
+    color:white
+} */
+body {
+    font-family: sans-serif;
+    /* background-color: black; */
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5em;
+  }
+  
+  input[type="file"] {
+    display: none;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  
